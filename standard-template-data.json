@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-10T08:19:33.972853928Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T07:46:15.348065631Z",
     "templateType": "trip_d",
     "propertyId": "a92a0549-4534-4e2c-b22a-76371a56fbf4",
     "homepageId": "7fdd0727-a375-406d-aaab-c8fc91e570dd"
@@ -29,6 +29,9 @@
     "domain": "astropoolvilla.co.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1532292",
     "ybsId": "78560",
+    "tripPropertyId": "9497",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -1525,6 +1528,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
