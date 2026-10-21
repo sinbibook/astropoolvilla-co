@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-10-12T03:02:07.249042233Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-10-21T05:41:55.386053158Z",
     "templateType": "trip_d",
     "propertyId": "a92a0549-4534-4e2c-b22a-76371a56fbf4",
     "homepageId": "7fdd0727-a375-406d-aaab-c8fc91e570dd"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 24개월 이상~14세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아 (2세 미만): 무료이나 인원에는 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 전기, 그릴\n- 이용 요금: 101호 40,000원 / 201,202호 30,000원 (1박기준/현장결제)\n- 신청 시간: 17:00~19:00\n- 이용 시간: 18:00~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 이용시간 1시간전 문의\n※ 전기그릴 이용 시 무료\n※ 바베큐 추가 인원 요금 없음(숯불 무제한 이용 가능)\n※ 23시 이후 매너타임으로 인해 이용 불가\n\n[공용수영장]\n- 운영 기간: 26년도 4월 20일~ 10월 31일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 4m x 7.5m x 1m\n※ 입욕제, 목욕용품 (샴푸, 바디워셔 등) 식음료 등 절대 반입 불가입니다.\n※ 타인에게 불쾌감을 줄 수 있는 행위는 자제 부탁드립니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.\n\n[개별수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 이용 요금: 미온수 70,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 2.5m x 3.5m x 80\n- 온도: 35℃\n※ 6~9월 제외, 미온수 이용 필수 입니다.\n※ 입욕제, 목욕용품 (샴푸, 바디워시 등), 식음료 등 절대 반입 불가입니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.\n\n[불멍]\n- 이용 요금: 10,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 이용 장소: 바베큐장, 캠핑사이트\n\n[조식 서비스]\n[조식]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n※ 1박 기준 무료 제공드리며, 연박 시 1인 당 7,000원으로 추가 이용 가능\n- 조식 구성: 1인 당 전복죽 1그릇 제공\n- 입실일 당일에 현장에 문의 부탁 드립니다.\n\n[부대시설]\n[캠핑사이트]\n- 종류: 파쇄석 : 3m x 4m\n- 종류: 쿠디 에어텐트(201호) : 3m x 3m\n\n[65도씨 카페&정원]\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- OTT 이용 가능\n※ 넷플릭스, 유튜브, 티빙 이용 가능\n※ OTT 개인계정 필요\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용시]\n- 네비게이션 검색: 경북 경주시 천북면 새터흥림길 55-37 경주 하늘꽃 아스트로 풀빌라\n\n[대중교통 이용시]\n- 버스 : 경주시외버스터미널> 시외버스터미널정류장 승차>272번 버스승차>화산3리.나리마을입 정류장하차>도보 12분\n- 기차 : 경주역 > 경주역 정류장>70번 또는 50번 버스승차> IM뱅크건너 정류장하차> 272번 버스 승차 >화산3리.나리마을입 정류장하차 >도보 12분",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 24개월 이상~14세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 25,000원, 유아 무료\n(1박기준/현장결제)\n※ 유아 (2세 미만): 무료이나 인원에는 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 전기, 그릴\n- 이용 요금: 101호 40,000원 / 201,202호 30,000원 (1박기준/현장결제)\n- 신청 시간: 17:00~19:00\n- 이용 시간: 18:00~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 이용시간 1시간전 문의\n※ 전기그릴 이용 시 무료\n※ 바베큐 추가 인원 요금 없음(숯불 무제한 이용 가능)\n※ 23시 이후 매너타임으로 인해 이용 불가\n\n[공용수영장]\n- 운영 기간: 26년도 4월 20일~ 10월 31일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 4m x 7.5m x 1m\n※ 입욕제, 목욕용품 (샴푸, 바디워셔 등) 식음료 등 절대 반입 불가입니다.\n※ 타인에게 불쾌감을 줄 수 있는 행위는 자제 부탁드립니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.\n\n[개별수영장]\n- 이용 객실: 전 객실\n※ 운영 계절: 조건부 운영, ~11/30까지 운영 예정\n※ 운영 여부는 사전 문의 부탁드립니다. \n- 이용 요금: 미온수 70,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 2.5m x 3.5m x 80\n- 온도: 35℃\n※ 6~9월 제외, 미온수 이용 필수 입니다.\n※ 입욕제, 목욕용품 (샴푸, 바디워시 등), 식음료 등 절대 반입 불가입니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.\n\n[불멍]\n- 이용 요금: 10,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 이용 장소: 바베큐장, 캠핑사이트\n\n[조식 서비스]\n[조식]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n※ 1박 기준 무료 제공드리며, 연박 시 1인 당 7,000원으로 추가 이용 가능\n- 조식 구성: 1인 당 전복죽 1그릇 제공\n- 입실일 당일에 현장에 문의 부탁 드립니다.\n\n[부대시설]\n[캠핑사이트]\n- 종류: 파쇄석 : 3m x 4m\n- 종류: 쿠디 에어텐트(201호) : 3m x 3m\n\n[65도씨 카페&정원]\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- OTT 이용 가능\n※ 넷플릭스, 유튜브, 티빙 이용 가능\n※ OTT 개인계정 필요\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 불가\n\n[교통편]\n[승용차 이용시]\n- 네비게이션 검색: 경북 경주시 천북면 새터흥림길 55-37 경주 하늘꽃 아스트로 풀빌라\n\n[대중교통 이용시]\n- 버스 : 경주시외버스터미널> 시외버스터미널정류장 승차>272번 버스승차>화산3리.나리마을입 정류장하차>도보 12분\n- 기차 : 경주역 > 경주역 정류장>70번 또는 50번 버스승차> IM뱅크건너 정류장하차> 272번 버스 승차 >화산3리.나리마을입 정류장하차 >도보 12분",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -73,52 +73,11 @@
     },
     "facilities": [
       {
-        "id": "f3a8598b-1f35-4dc1-a21b-ca329aa07503",
-        "name": "공용수영장",
-        "description": "",
-        "usageGuide": "- 운영 기간: 26년도 4월 20일~ 10월 31일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 4m x 7.5m x 1m\n※ 입욕제, 목욕용품 (샴푸, 바디워셔 등) 식음료 등 절대 반입 불가입니다.\n※ 타인에게 불쾌감을 줄 수 있는 행위는 자제 부탁드립니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.",
-        "displayOrder": 1,
-        "images": [
-          {
-            "id": "628f41ee-cc6d-4d16-9c17-7236b792c1c6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233105-monylnq1jl.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "1d10d390-8c46-4df6-b8a4-0c98f107e1b2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233104-9hx7uvpw57.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "0247e3ef-7922-463f-a028-7651b56fe35f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233106-dnse4ihk5b.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "c43f885f-f664-4a24-9ec3-4e6c5fda07fa",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233106-wld6equbhv.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "b7b12a10-ff2f-45c5-a1fe-c5b4bf085de2",
         "name": "개별수영장",
         "description": "",
-        "usageGuide": "- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 이용 요금: 미온수 70,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 2.5m x 3.5m x 80\n- 온도: 35℃\n※ 6~9월 제외, 미온수 이용 필수 입니다.\n※ 입욕제, 목욕용품 (샴푸, 바디워시 등), 식음료 등 절대 반입 불가입니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.",
-        "displayOrder": 2,
+        "usageGuide": "- 이용 객실: 전 객실\n※ 운영 계절: 조건부 운영, ~11/30까지 운영 예정\n※ 운영 여부는 사전 문의 부탁드립니다. \n- 이용 요금: 미온수 70,000원 (1박기준/현장결제)\n- 이용 시간: ~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 2.5m x 3.5m x 80\n- 온도: 35℃\n※ 6~9월 제외, 미온수 이용 필수 입니다.\n※ 입욕제, 목욕용품 (샴푸, 바디워시 등), 식음료 등 절대 반입 불가입니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.",
+        "displayOrder": 0,
         "images": [
           {
             "id": "4f7d8e35-8fc2-4278-88c3-84f705c04c80",
@@ -159,7 +118,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 전기, 그릴\n- 이용 요금: 101호 40,000원 / 201,202호 30,000원 (1박기준/현장결제)\n- 신청 시간: 17:00~19:00\n- 이용 시간: 18:00~23:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 이용시간 1시간전 문의\n※ 전기그릴 이용 시 무료\n※ 바베큐 추가 인원 요금 없음(숯불 무제한 이용 가능)\n※ 23시 이후 매너타임으로 인해 이용 불가",
-        "displayOrder": 3,
+        "displayOrder": 1,
         "images": [
           {
             "id": "fb87534b-c218-43d1-b920-e05bb6a083f7",
@@ -200,7 +159,7 @@
         "name": "불멍",
         "description": "",
         "usageGuide": "- 이용 요금: 10,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 이용 장소: 바베큐장, 캠핑사이트",
-        "displayOrder": 4,
+        "displayOrder": 2,
         "images": [
           {
             "id": "b8914f39-6fae-44a5-b3ce-84c30027f100",
@@ -229,11 +188,52 @@
         ]
       },
       {
+        "id": "f3a8598b-1f35-4dc1-a21b-ca329aa07503",
+        "name": "공용수영장",
+        "description": "",
+        "usageGuide": "- 운영 기간: 26년도 4월 20일~ 10월 31일\n- 온도: 냉수\n- 이용 요금: 무료\n- 이용 시간: 09:00~22:00\n- 이용 복장: 수영복 필수\n- 수영장 크기: 4m x 7.5m x 1m\n※ 입욕제, 목욕용품 (샴푸, 바디워셔 등) 식음료 등 절대 반입 불가입니다.\n※ 타인에게 불쾌감을 줄 수 있는 행위는 자제 부탁드립니다.\n※ 다이빙 절대 금지입니다.\n※ 어린이 이용 시 보호자 동행 필수입니다.",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "628f41ee-cc6d-4d16-9c17-7236b792c1c6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233105-monylnq1jl.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1d10d390-8c46-4df6-b8a4-0c98f107e1b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233104-9hx7uvpw57.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0247e3ef-7922-463f-a028-7651b56fe35f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233106-dnse4ihk5b.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c43f885f-f664-4a24-9ec3-4e6c5fda07fa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f3a8598b-1f35-4dc1-a21b-ca329aa07503/main/1788155233106-wld6equbhv.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "e3862ab4-4a28-495d-9629-fc6e5457cc0f",
         "name": "부대시설",
         "description": "",
         "usageGuide": "[캠핑사이트]\n- 종류: 파쇄석 : 3m x 4m\n- 종류: 쿠디 에어텐트(201호) : 3m x 3m\n\n[65도씨 카페&정원]",
-        "displayOrder": 5,
+        "displayOrder": 4,
         "images": [
           {
             "id": "56bc66de-227e-4842-a957-910db332047e",
@@ -279,6 +279,39 @@
             "id": "7709340b-bc9d-4c5b-b0f1-f1c962a4f22d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e3862ab4-4a28-495d-9629-fc6e5457cc0f/main/1788155235538-47p305fhrj.jpg",
             "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a153ba-dbe8-75eb-af62-58c6d29188d1",
+        "name": "조식 서비스",
+        "description": "",
+        "usageGuide": "[조식]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n※ 1박 기준 무료 제공드리며, 연박 시 1인 당 7,000원으로 추가 이용 가능\n- 조식 구성: 1인 당 전복죽 1그릇 제공\n- 입실일 당일에 현장에 문의 부탁 드립니다.",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "01a153ba-eda5-7942-98f5-e9c0e11398e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ba-dbe8-75eb-af62-58c6d29188d1/main/1792406121524-vax6s2pt8a.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ba-eee3-746f-9cf3-95bb65f82802",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ba-dbe8-75eb-af62-58c6d29188d1/main/1792406121523-gmzu3fkyk2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ba-ee54-7330-8a03-0bf04a91ff5f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ba-dbe8-75eb-af62-58c6d29188d1/main/1792406121529-e5x4g6c503.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -378,7 +411,7 @@
           {
             "id": "c6771081-ec49-42d1-a3e7-3c43a125d11c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/SqzwJcAZ2skK.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -388,7 +421,7 @@
           {
             "id": "774a9980-8066-48e8-af70-d56c7cc421ab",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/vHhmy5r49CDz.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -396,7 +429,7 @@
           {
             "id": "bacc76f3-2f82-4ed4-988c-da69de5184ab",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/dGEqbfK8U9a1.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -404,7 +437,7 @@
           {
             "id": "c5eb52e4-3e0d-4996-997d-dbb8ccd671e4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/YGIZfwBkF12p.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -412,7 +445,7 @@
           {
             "id": "2e18ef9d-9579-403c-b2d2-f92fc16e3147",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/Id1YuyTgomhs.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -420,7 +453,7 @@
           {
             "id": "028329be-0a32-48bd-8227-c465049f2a2f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/jdkBwcZHCmsY.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -428,7 +461,7 @@
           {
             "id": "0a56b3f0-6f76-4935-94f6-d0d4b8d9c5ae",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/ohIuOQ6Jwnsq.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -436,7 +469,7 @@
           {
             "id": "c2c389e0-ef3a-4d2d-ae5f-423aaf5d4b8a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/vDhyS3KasoBO.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -444,7 +477,7 @@
           {
             "id": "e06c164b-cd0b-4d4b-beb7-7f41f8a24560",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/2vbBm6Nc41EK.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -452,7 +485,7 @@
           {
             "id": "13ed4fb9-3312-4c4c-aa8f-8aa270684a3e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/Vb5X06ixTf1J.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1582,7 +1615,8 @@
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
-            "description": ""
+            "description": "",
+            "videos": [ ]
           }
         ]
       },
@@ -2207,7 +2241,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
